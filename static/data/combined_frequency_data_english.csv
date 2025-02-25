@@ -1,0 +1,1057 @@
+Word,month,frequency,year
+Information Technology,1,1,2015
+Agricultural Machinery,1,0,2015
+New Materials,1,1,2015
+New Energy Vehicles,1,2,2015
+Robotics,1,0,2015
+Ocean Engineering,1,0,2015
+Biopharmaceuticals,1,0,2015
+Electric Power,1,7,2015
+Aerospace,1,3,2015
+Rail Transit,1,1,2015
+Information Technology,2,2,2015
+Agricultural Machinery,2,0,2015
+New Materials,2,0,2015
+New Energy Vehicles,2,1,2015
+Robotics,2,1,2015
+Ocean Engineering,2,0,2015
+Biopharmaceuticals,2,1,2015
+Electric Power,2,3,2015
+Aerospace,2,4,2015
+Rail Transit,2,0,2015
+Information Technology,3,2,2015
+Agricultural Machinery,3,2,2015
+New Materials,3,2,2015
+New Energy Vehicles,3,2,2015
+Robotics,3,5,2015
+Ocean Engineering,3,2,2015
+Biopharmaceuticals,3,2,2015
+Electric Power,3,10,2015
+Aerospace,3,5,2015
+Rail Transit,3,3,2015
+Information Technology,4,4,2015
+Agricultural Machinery,4,1,2015
+New Materials,4,1,2015
+New Energy Vehicles,4,0,2015
+Robotics,4,3,2015
+Ocean Engineering,4,0,2015
+Biopharmaceuticals,4,2,2015
+Electric Power,4,10,2015
+Aerospace,4,7,2015
+Rail Transit,4,1,2015
+Information Technology,5,6,2015
+Agricultural Machinery,5,0,2015
+New Materials,5,2,2015
+New Energy Vehicles,5,1,2015
+Robotics,5,2,2015
+Ocean Engineering,5,3,2015
+Biopharmaceuticals,5,1,2015
+Electric Power,5,16,2015
+Aerospace,5,8,2015
+Rail Transit,5,7,2015
+Information Technology,6,2,2015
+Agricultural Machinery,6,0,2015
+New Materials,6,2,2015
+New Energy Vehicles,6,0,2015
+Robotics,6,7,2015
+Ocean Engineering,6,0,2015
+Biopharmaceuticals,6,0,2015
+Electric Power,6,6,2015
+Aerospace,6,9,2015
+Rail Transit,6,4,2015
+Information Technology,7,1,2015
+Agricultural Machinery,7,2,2015
+New Materials,7,0,2015
+New Energy Vehicles,7,0,2015
+Robotics,7,5,2015
+Ocean Engineering,7,0,2015
+Biopharmaceuticals,7,2,2015
+Electric Power,7,9,2015
+Aerospace,7,14,2015
+Rail Transit,7,4,2015
+Information Technology,8,2,2015
+Agricultural Machinery,8,0,2015
+New Materials,8,1,2015
+New Energy Vehicles,8,1,2015
+Robotics,8,5,2015
+Ocean Engineering,8,0,2015
+Biopharmaceuticals,8,1,2015
+Electric Power,8,8,2015
+Aerospace,8,6,2015
+Rail Transit,8,1,2015
+Information Technology,9,5,2015
+Agricultural Machinery,9,0,2015
+New Materials,9,1,2015
+New Energy Vehicles,9,3,2015
+Robotics,9,3,2015
+Ocean Engineering,9,1,2015
+Biopharmaceuticals,9,0,2015
+Electric Power,9,10,2015
+Aerospace,9,6,2015
+Rail Transit,9,3,2015
+Information Technology,10,3,2015
+Agricultural Machinery,10,0,2015
+New Materials,10,2,2015
+New Energy Vehicles,10,4,2015
+Robotics,10,3,2015
+Ocean Engineering,10,0,2015
+Biopharmaceuticals,10,2,2015
+Electric Power,10,6,2015
+Aerospace,10,12,2015
+Rail Transit,10,0,2015
+Information Technology,11,3,2015
+Agricultural Machinery,11,0,2015
+New Materials,11,1,2015
+New Energy Vehicles,11,1,2015
+Robotics,11,2,2015
+Ocean Engineering,11,1,2015
+Biopharmaceuticals,11,1,2015
+Electric Power,11,10,2015
+Aerospace,11,5,2015
+Rail Transit,11,0,2015
+Information Technology,12,4,2015
+Agricultural Machinery,12,0,2015
+New Materials,12,1,2015
+New Energy Vehicles,12,1,2015
+Robotics,12,4,2015
+Ocean Engineering,12,0,2015
+Biopharmaceuticals,12,2,2015
+Electric Power,12,14,2015
+Aerospace,12,6,2015
+Rail Transit,12,0,2015
+Information Technology,1,1,2016
+Agricultural Machinery,1,0,2016
+New Materials,1,0,2016
+New Energy Vehicles,1,1,2016
+Robotics,1,3,2016
+Ocean Engineering,1,0,2016
+Biopharmaceuticals,1,0,2016
+Electric Power,1,12,2016
+Aerospace,1,11,2016
+Rail Transit,1,2,2016
+Information Technology,2,0,2016
+Agricultural Machinery,2,0,2016
+New Materials,2,0,2016
+New Energy Vehicles,2,3,2016
+Robotics,2,2,2016
+Ocean Engineering,2,1,2016
+Biopharmaceuticals,2,3,2016
+Electric Power,2,7,2016
+Aerospace,2,7,2016
+Rail Transit,2,0,2016
+Information Technology,3,1,2016
+Agricultural Machinery,3,1,2016
+New Materials,3,2,2016
+New Energy Vehicles,3,2,2016
+Robotics,3,3,2016
+Ocean Engineering,3,1,2016
+Biopharmaceuticals,3,1,2016
+Electric Power,3,8,2016
+Aerospace,3,3,2016
+Rail Transit,3,2,2016
+Information Technology,4,2,2016
+Agricultural Machinery,4,1,2016
+New Materials,4,1,2016
+New Energy Vehicles,4,1,2016
+Robotics,4,10,2016
+Ocean Engineering,4,0,2016
+Biopharmaceuticals,4,2,2016
+Electric Power,4,11,2016
+Aerospace,4,12,2016
+Rail Transit,4,2,2016
+Information Technology,5,4,2016
+Agricultural Machinery,5,0,2016
+New Materials,5,2,2016
+New Energy Vehicles,5,1,2016
+Robotics,5,6,2016
+Ocean Engineering,5,0,2016
+Biopharmaceuticals,5,1,2016
+Electric Power,5,10,2016
+Aerospace,5,15,2016
+Rail Transit,5,3,2016
+Information Technology,6,3,2016
+Agricultural Machinery,6,0,2016
+New Materials,6,3,2016
+New Energy Vehicles,6,3,2016
+Robotics,6,9,2016
+Ocean Engineering,6,0,2016
+Biopharmaceuticals,6,0,2016
+Electric Power,6,9,2016
+Aerospace,6,12,2016
+Rail Transit,6,2,2016
+Information Technology,7,0,2016
+Agricultural Machinery,7,0,2016
+New Materials,7,1,2016
+New Energy Vehicles,7,4,2016
+Robotics,7,4,2016
+Ocean Engineering,7,0,2016
+Biopharmaceuticals,7,1,2016
+Electric Power,7,4,2016
+Aerospace,7,9,2016
+Rail Transit,7,1,2016
+Information Technology,8,3,2016
+Agricultural Machinery,8,0,2016
+New Materials,8,5,2016
+New Energy Vehicles,8,2,2016
+Robotics,8,4,2016
+Ocean Engineering,8,0,2016
+Biopharmaceuticals,8,4,2016
+Electric Power,8,11,2016
+Aerospace,8,10,2016
+Rail Transit,8,2,2016
+Information Technology,9,3,2016
+Agricultural Machinery,9,0,2016
+New Materials,9,2,2016
+New Energy Vehicles,9,2,2016
+Robotics,9,2,2016
+Ocean Engineering,9,0,2016
+Biopharmaceuticals,9,2,2016
+Electric Power,9,6,2016
+Aerospace,9,11,2016
+Rail Transit,9,1,2016
+Information Technology,10,2,2016
+Agricultural Machinery,10,0,2016
+New Materials,10,1,2016
+New Energy Vehicles,10,0,2016
+Robotics,10,5,2016
+Ocean Engineering,10,0,2016
+Biopharmaceuticals,10,0,2016
+Electric Power,10,8,2016
+Aerospace,10,18,2016
+Rail Transit,10,2,2016
+Information Technology,11,4,2016
+Agricultural Machinery,11,0,2016
+New Materials,11,1,2016
+New Energy Vehicles,11,1,2016
+Robotics,11,1,2016
+Ocean Engineering,11,0,2016
+Biopharmaceuticals,11,0,2016
+Electric Power,11,7,2016
+Aerospace,11,19,2016
+Rail Transit,11,3,2016
+Information Technology,12,4,2016
+Agricultural Machinery,12,0,2016
+New Materials,12,1,2016
+New Energy Vehicles,12,0,2016
+Robotics,12,2,2016
+Ocean Engineering,12,0,2016
+Biopharmaceuticals,12,1,2016
+Electric Power,12,5,2016
+Aerospace,12,11,2016
+Rail Transit,12,3,2016
+Information Technology,1,0,2017
+Agricultural Machinery,1,0,2017
+New Materials,1,0,2017
+New Energy Vehicles,1,0,2017
+Robotics,1,4,2017
+Ocean Engineering,1,0,2017
+Biopharmaceuticals,1,1,2017
+Electric Power,1,5,2017
+Aerospace,1,6,2017
+Rail Transit,1,2,2017
+Information Technology,2,1,2017
+Agricultural Machinery,2,1,2017
+New Materials,2,1,2017
+New Energy Vehicles,2,1,2017
+Robotics,2,6,2017
+Ocean Engineering,2,1,2017
+Biopharmaceuticals,2,0,2017
+Electric Power,2,6,2017
+Aerospace,2,11,2017
+Rail Transit,2,1,2017
+Information Technology,3,2,2017
+Agricultural Machinery,3,0,2017
+New Materials,3,0,2017
+New Energy Vehicles,3,2,2017
+Robotics,3,3,2017
+Ocean Engineering,3,0,2017
+Biopharmaceuticals,3,4,2017
+Electric Power,3,10,2017
+Aerospace,3,6,2017
+Rail Transit,3,0,2017
+Information Technology,4,3,2017
+Agricultural Machinery,4,0,2017
+New Materials,4,1,2017
+New Energy Vehicles,4,2,2017
+Robotics,4,2,2017
+Ocean Engineering,4,1,2017
+Biopharmaceuticals,4,2,2017
+Electric Power,4,14,2017
+Aerospace,4,14,2017
+Rail Transit,4,3,2017
+Information Technology,5,0,2017
+Agricultural Machinery,5,0,2017
+New Materials,5,3,2017
+New Energy Vehicles,5,0,2017
+Robotics,5,2,2017
+Ocean Engineering,5,0,2017
+Biopharmaceuticals,5,1,2017
+Electric Power,5,13,2017
+Aerospace,5,8,2017
+Rail Transit,5,1,2017
+Information Technology,6,1,2017
+Agricultural Machinery,6,0,2017
+New Materials,6,2,2017
+New Energy Vehicles,6,3,2017
+Robotics,6,2,2017
+Ocean Engineering,6,1,2017
+Biopharmaceuticals,6,1,2017
+Electric Power,6,7,2017
+Aerospace,6,12,2017
+Rail Transit,6,6,2017
+Information Technology,7,1,2017
+Agricultural Machinery,7,0,2017
+New Materials,7,0,2017
+New Energy Vehicles,7,1,2017
+Robotics,7,5,2017
+Ocean Engineering,7,0,2017
+Biopharmaceuticals,7,1,2017
+Electric Power,7,17,2017
+Aerospace,7,8,2017
+Rail Transit,7,1,2017
+Information Technology,8,0,2017
+Agricultural Machinery,8,0,2017
+New Materials,8,0,2017
+New Energy Vehicles,8,3,2017
+Robotics,8,4,2017
+Ocean Engineering,8,1,2017
+Biopharmaceuticals,8,0,2017
+Electric Power,8,11,2017
+Aerospace,8,8,2017
+Rail Transit,8,2,2017
+Information Technology,9,2,2017
+Agricultural Machinery,9,1,2017
+New Materials,9,2,2017
+New Energy Vehicles,9,0,2017
+Robotics,9,4,2017
+Ocean Engineering,9,1,2017
+Biopharmaceuticals,9,0,2017
+Electric Power,9,17,2017
+Aerospace,9,6,2017
+Rail Transit,9,1,2017
+Information Technology,10,0,2017
+Agricultural Machinery,10,0,2017
+New Materials,10,0,2017
+New Energy Vehicles,10,2,2017
+Robotics,10,2,2017
+Ocean Engineering,10,0,2017
+Biopharmaceuticals,10,0,2017
+Electric Power,10,3,2017
+Aerospace,10,7,2017
+Rail Transit,10,2,2017
+Information Technology,11,3,2017
+Agricultural Machinery,11,1,2017
+New Materials,11,1,2017
+New Energy Vehicles,11,3,2017
+Robotics,11,2,2017
+Ocean Engineering,11,0,2017
+Biopharmaceuticals,11,0,2017
+Electric Power,11,12,2017
+Aerospace,11,8,2017
+Rail Transit,11,0,2017
+Information Technology,12,5,2017
+Agricultural Machinery,12,0,2017
+New Materials,12,1,2017
+New Energy Vehicles,12,1,2017
+Robotics,12,5,2017
+Ocean Engineering,12,0,2017
+Biopharmaceuticals,12,1,2017
+Electric Power,12,11,2017
+Aerospace,12,4,2017
+Rail Transit,12,1,2017
+Information Technology,1,3,2018
+Agricultural Machinery,1,1,2018
+New Materials,1,1,2018
+New Energy Vehicles,1,3,2018
+Robotics,1,2,2018
+Ocean Engineering,1,0,2018
+Biopharmaceuticals,1,2,2018
+Electric Power,1,14,2018
+Aerospace,1,13,2018
+Rail Transit,1,2,2018
+Information Technology,2,2,2018
+Agricultural Machinery,2,0,2018
+New Materials,2,3,2018
+New Energy Vehicles,2,0,2018
+Robotics,2,1,2018
+Ocean Engineering,2,0,2018
+Biopharmaceuticals,2,0,2018
+Electric Power,2,3,2018
+Aerospace,2,7,2018
+Rail Transit,2,0,2018
+Information Technology,3,5,2018
+Agricultural Machinery,3,0,2018
+New Materials,3,4,2018
+New Energy Vehicles,3,2,2018
+Robotics,3,2,2018
+Ocean Engineering,3,0,2018
+Biopharmaceuticals,3,2,2018
+Electric Power,3,5,2018
+Aerospace,3,9,2018
+Rail Transit,3,1,2018
+Information Technology,4,6,2018
+Agricultural Machinery,4,0,2018
+New Materials,4,1,2018
+New Energy Vehicles,4,1,2018
+Robotics,4,4,2018
+Ocean Engineering,4,0,2018
+Biopharmaceuticals,4,2,2018
+Electric Power,4,8,2018
+Aerospace,4,7,2018
+Rail Transit,4,1,2018
+Information Technology,5,4,2018
+Agricultural Machinery,5,0,2018
+New Materials,5,3,2018
+New Energy Vehicles,5,4,2018
+Robotics,5,3,2018
+Ocean Engineering,5,1,2018
+Biopharmaceuticals,5,1,2018
+Electric Power,5,12,2018
+Aerospace,5,9,2018
+Rail Transit,5,1,2018
+Information Technology,6,2,2018
+Agricultural Machinery,6,0,2018
+New Materials,6,1,2018
+New Energy Vehicles,6,4,2018
+Robotics,6,5,2018
+Ocean Engineering,6,1,2018
+Biopharmaceuticals,6,1,2018
+Electric Power,6,4,2018
+Aerospace,6,5,2018
+Rail Transit,6,3,2018
+Information Technology,7,5,2018
+Agricultural Machinery,7,1,2018
+New Materials,7,2,2018
+New Energy Vehicles,7,5,2018
+Robotics,7,3,2018
+Ocean Engineering,7,0,2018
+Biopharmaceuticals,7,1,2018
+Electric Power,7,4,2018
+Aerospace,7,1,2018
+Rail Transit,7,3,2018
+Information Technology,8,3,2018
+Agricultural Machinery,8,0,2018
+New Materials,8,7,2018
+New Energy Vehicles,8,4,2018
+Robotics,8,8,2018
+Ocean Engineering,8,1,2018
+Biopharmaceuticals,8,1,2018
+Electric Power,8,8,2018
+Aerospace,8,2,2018
+Rail Transit,8,2,2018
+Information Technology,9,1,2018
+Agricultural Machinery,9,1,2018
+New Materials,9,2,2018
+New Energy Vehicles,9,0,2018
+Robotics,9,1,2018
+Ocean Engineering,9,0,2018
+Biopharmaceuticals,9,0,2018
+Electric Power,9,9,2018
+Aerospace,9,8,2018
+Rail Transit,9,1,2018
+Information Technology,10,3,2018
+Agricultural Machinery,10,2,2018
+New Materials,10,1,2018
+New Energy Vehicles,10,3,2018
+Robotics,10,4,2018
+Ocean Engineering,10,0,2018
+Biopharmaceuticals,10,1,2018
+Electric Power,10,9,2018
+Aerospace,10,10,2018
+Rail Transit,10,0,2018
+Information Technology,11,4,2018
+Agricultural Machinery,11,0,2018
+New Materials,11,2,2018
+New Energy Vehicles,11,4,2018
+Robotics,11,8,2018
+Ocean Engineering,11,0,2018
+Biopharmaceuticals,11,3,2018
+Electric Power,11,11,2018
+Aerospace,11,13,2018
+Rail Transit,11,1,2018
+Information Technology,12,5,2018
+Agricultural Machinery,12,3,2018
+New Materials,12,0,2018
+New Energy Vehicles,12,4,2018
+Robotics,12,1,2018
+Ocean Engineering,12,0,2018
+Biopharmaceuticals,12,1,2018
+Electric Power,12,6,2018
+Aerospace,12,8,2018
+Rail Transit,12,0,2018
+Information Technology,1,1,2019
+Agricultural Machinery,1,0,2019
+New Materials,1,0,2019
+New Energy Vehicles,1,3,2019
+Robotics,1,5,2019
+Biopharmaceuticals,1,1,2019
+Electric Power,1,8,2019
+Aerospace,1,12,2019
+Rail Transit,1,3,2019
+Information Technology,2,1,2019
+Agricultural Machinery,2,0,2019
+New Materials,2,1,2019
+New Energy Vehicles,2,1,2019
+Robotics,2,3,2019
+Biopharmaceuticals,2,0,2019
+Electric Power,2,3,2019
+Aerospace,2,6,2019
+Rail Transit,2,1,2019
+Information Technology,3,2,2019
+Agricultural Machinery,3,1,2019
+New Materials,3,2,2019
+New Energy Vehicles,3,0,2019
+Robotics,3,3,2019
+Biopharmaceuticals,3,1,2019
+Electric Power,3,8,2019
+Aerospace,3,9,2019
+Rail Transit,3,0,2019
+Information Technology,4,5,2019
+Agricultural Machinery,4,0,2019
+New Materials,4,0,2019
+New Energy Vehicles,4,2,2019
+Robotics,4,3,2019
+Biopharmaceuticals,4,2,2019
+Electric Power,4,8,2019
+Aerospace,4,6,2019
+Rail Transit,4,2,2019
+Information Technology,5,7,2019
+Agricultural Machinery,5,0,2019
+New Materials,5,4,2019
+New Energy Vehicles,5,5,2019
+Robotics,5,7,2019
+Biopharmaceuticals,5,2,2019
+Electric Power,5,4,2019
+Aerospace,5,6,2019
+Rail Transit,5,0,2019
+Information Technology,6,7,2019
+Agricultural Machinery,6,0,2019
+New Materials,6,1,2019
+New Energy Vehicles,6,1,2019
+Robotics,6,5,2019
+Biopharmaceuticals,6,3,2019
+Electric Power,6,7,2019
+Aerospace,6,9,2019
+Rail Transit,6,2,2019
+Information Technology,7,3,2019
+Agricultural Machinery,7,1,2019
+New Materials,7,3,2019
+New Energy Vehicles,7,4,2019
+Robotics,7,2,2019
+Biopharmaceuticals,7,1,2019
+Electric Power,7,10,2019
+Aerospace,7,9,2019
+Rail Transit,7,1,2019
+Information Technology,8,4,2019
+Agricultural Machinery,8,0,2019
+New Materials,8,0,2019
+New Energy Vehicles,8,1,2019
+Robotics,8,3,2019
+Biopharmaceuticals,8,3,2019
+Electric Power,8,3,2019
+Aerospace,8,9,2019
+Rail Transit,8,0,2019
+Information Technology,9,1,2019
+Agricultural Machinery,9,0,2019
+New Materials,9,3,2019
+New Energy Vehicles,9,4,2019
+Robotics,9,4,2019
+Biopharmaceuticals,9,4,2019
+Electric Power,9,6,2019
+Aerospace,9,7,2019
+Rail Transit,9,0,2019
+Information Technology,10,4,2019
+Agricultural Machinery,10,0,2019
+New Materials,10,0,2019
+New Energy Vehicles,10,1,2019
+Robotics,10,3,2019
+Biopharmaceuticals,10,0,2019
+Electric Power,10,7,2019
+Aerospace,10,2,2019
+Rail Transit,10,1,2019
+Information Technology,11,4,2019
+Agricultural Machinery,11,0,2019
+New Materials,11,0,2019
+New Energy Vehicles,11,2,2019
+Robotics,11,3,2019
+Biopharmaceuticals,11,1,2019
+Electric Power,11,2,2019
+Aerospace,11,6,2019
+Rail Transit,11,0,2019
+Information Technology,12,3,2019
+Agricultural Machinery,12,0,2019
+New Materials,12,1,2019
+New Energy Vehicles,12,1,2019
+Robotics,12,2,2019
+Biopharmaceuticals,12,0,2019
+Electric Power,12,4,2019
+Aerospace,12,10,2019
+Rail Transit,12,2,2019
+Information Technology,1,1,2020
+Agricultural Machinery,1,1,2020
+New Materials,1,0,2020
+New Energy Vehicles,1,0,2020
+Robotics,1,0,2020
+Ocean Engineering,1,0,2020
+Biopharmaceuticals,1,1,2020
+Electric Power,1,3,2020
+Aerospace,1,9,2020
+Rail Transit,1,1,2020
+Information Technology,2,1,2020
+Agricultural Machinery,2,1,2020
+New Materials,2,1,2020
+New Energy Vehicles,2,3,2020
+Robotics,2,3,2020
+Ocean Engineering,2,0,2020
+Biopharmaceuticals,2,3,2020
+Electric Power,2,13,2020
+Aerospace,2,5,2020
+Rail Transit,2,0,2020
+Information Technology,3,4,2020
+Agricultural Machinery,3,0,2020
+New Materials,3,2,2020
+New Energy Vehicles,3,1,2020
+Robotics,3,4,2020
+Ocean Engineering,3,0,2020
+Biopharmaceuticals,3,3,2020
+Electric Power,3,8,2020
+Aerospace,3,6,2020
+Rail Transit,3,7,2020
+Information Technology,4,3,2020
+Agricultural Machinery,4,1,2020
+New Materials,4,2,2020
+New Energy Vehicles,4,7,2020
+Robotics,4,3,2020
+Ocean Engineering,4,0,2020
+Biopharmaceuticals,4,4,2020
+Electric Power,4,4,2020
+Aerospace,4,7,2020
+Rail Transit,4,3,2020
+Information Technology,5,4,2020
+Agricultural Machinery,5,0,2020
+New Materials,5,5,2020
+New Energy Vehicles,5,3,2020
+Robotics,5,1,2020
+Ocean Engineering,5,0,2020
+Biopharmaceuticals,5,0,2020
+Electric Power,5,1,2020
+Aerospace,5,10,2020
+Rail Transit,5,0,2020
+Information Technology,6,5,2020
+Agricultural Machinery,6,2,2020
+New Materials,6,4,2020
+New Energy Vehicles,6,2,2020
+Robotics,6,2,2020
+Ocean Engineering,6,1,2020
+Biopharmaceuticals,6,2,2020
+Electric Power,6,6,2020
+Aerospace,6,1,2020
+Rail Transit,6,2,2020
+Information Technology,7,3,2020
+Agricultural Machinery,7,1,2020
+New Materials,7,2,2020
+New Energy Vehicles,7,2,2020
+Robotics,7,1,2020
+Ocean Engineering,7,0,2020
+Biopharmaceuticals,7,4,2020
+Electric Power,7,7,2020
+Aerospace,7,10,2020
+Rail Transit,7,0,2020
+Information Technology,8,5,2020
+Agricultural Machinery,8,3,2020
+New Materials,8,4,2020
+New Energy Vehicles,8,2,2020
+Robotics,8,3,2020
+Ocean Engineering,8,0,2020
+Biopharmaceuticals,8,2,2020
+Electric Power,8,5,2020
+Aerospace,8,4,2020
+Rail Transit,8,2,2020
+Information Technology,9,1,2020
+Agricultural Machinery,9,0,2020
+New Materials,9,1,2020
+New Energy Vehicles,9,0,2020
+Robotics,9,5,2020
+Ocean Engineering,9,1,2020
+Biopharmaceuticals,9,3,2020
+Electric Power,9,2,2020
+Aerospace,9,5,2020
+Rail Transit,9,0,2020
+Information Technology,10,7,2020
+Agricultural Machinery,10,0,2020
+New Materials,10,3,2020
+New Energy Vehicles,10,4,2020
+Robotics,10,3,2020
+Ocean Engineering,10,1,2020
+Biopharmaceuticals,10,2,2020
+Electric Power,10,5,2020
+Aerospace,10,9,2020
+Rail Transit,10,6,2020
+Information Technology,11,7,2020
+Agricultural Machinery,11,1,2020
+New Materials,11,4,2020
+New Energy Vehicles,11,5,2020
+Robotics,11,6,2020
+Ocean Engineering,11,0,2020
+Biopharmaceuticals,11,3,2020
+Electric Power,11,6,2020
+Aerospace,11,12,2020
+Rail Transit,11,2,2020
+Information Technology,12,1,2020
+Agricultural Machinery,12,0,2020
+New Materials,12,2,2020
+New Energy Vehicles,12,0,2020
+Robotics,12,2,2020
+Ocean Engineering,12,0,2020
+Biopharmaceuticals,12,1,2020
+Electric Power,12,3,2020
+Aerospace,12,21,2020
+Rail Transit,12,3,2020
+Information Technology,1,2,2021
+Agricultural Machinery,1,0,2021
+New Materials,1,5,2021
+New Energy Vehicles,1,6,2021
+Robotics,1,5,2021
+Ocean Engineering,1,0,2021
+Biopharmaceuticals,1,3,2021
+Electric Power,1,3,2021
+Aerospace,1,5,2021
+Rail Transit,1,2,2021
+Information Technology,2,0,2021
+Agricultural Machinery,2,0,2021
+New Materials,2,0,2021
+New Energy Vehicles,2,0,2021
+Robotics,2,0,2021
+Ocean Engineering,2,0,2021
+Biopharmaceuticals,2,0,2021
+Electric Power,2,12,2021
+Aerospace,2,9,2021
+Rail Transit,2,0,2021
+Information Technology,3,4,2021
+Agricultural Machinery,3,0,2021
+New Materials,3,2,2021
+New Energy Vehicles,3,0,2021
+Robotics,3,2,2021
+Ocean Engineering,3,0,2021
+Biopharmaceuticals,3,3,2021
+Electric Power,3,4,2021
+Aerospace,3,7,2021
+Rail Transit,3,0,2021
+Information Technology,4,2,2021
+Agricultural Machinery,4,0,2021
+New Materials,4,3,2021
+New Energy Vehicles,4,5,2021
+Robotics,4,5,2021
+Ocean Engineering,4,0,2021
+Biopharmaceuticals,4,4,2021
+Electric Power,4,5,2021
+Aerospace,4,15,2021
+Rail Transit,4,2,2021
+Information Technology,5,6,2021
+Agricultural Machinery,5,0,2021
+New Materials,5,6,2021
+New Energy Vehicles,5,4,2021
+Robotics,5,4,2021
+Ocean Engineering,5,0,2021
+Biopharmaceuticals,5,2,2021
+Electric Power,5,10,2021
+Aerospace,5,19,2021
+Rail Transit,5,3,2021
+Information Technology,6,4,2021
+Agricultural Machinery,6,1,2021
+New Materials,6,1,2021
+New Energy Vehicles,6,1,2021
+Robotics,6,0,2021
+Ocean Engineering,6,1,2021
+Biopharmaceuticals,6,3,2021
+Electric Power,6,5,2021
+Aerospace,6,24,2021
+Rail Transit,6,2,2021
+Information Technology,7,0,2021
+Agricultural Machinery,7,1,2021
+New Materials,7,0,2021
+New Energy Vehicles,7,4,2021
+Robotics,7,4,2021
+Ocean Engineering,7,0,2021
+Biopharmaceuticals,7,2,2021
+Electric Power,7,9,2021
+Aerospace,7,13,2021
+Rail Transit,7,0,2021
+Information Technology,8,3,2021
+Agricultural Machinery,8,0,2021
+New Materials,8,0,2021
+New Energy Vehicles,8,3,2021
+Robotics,8,5,2021
+Ocean Engineering,8,0,2021
+Biopharmaceuticals,8,7,2021
+Electric Power,8,8,2021
+Aerospace,8,9,2021
+Rail Transit,8,2,2021
+Information Technology,9,3,2021
+Agricultural Machinery,9,0,2021
+New Materials,9,3,2021
+New Energy Vehicles,9,2,2021
+Robotics,9,3,2021
+Ocean Engineering,9,0,2021
+Biopharmaceuticals,9,3,2021
+Electric Power,9,11,2021
+Aerospace,9,18,2021
+Rail Transit,9,1,2021
+Information Technology,10,3,2021
+Agricultural Machinery,10,1,2021
+New Materials,10,0,2021
+New Energy Vehicles,10,4,2021
+Robotics,10,4,2021
+Ocean Engineering,10,0,2021
+Biopharmaceuticals,10,3,2021
+Electric Power,10,13,2021
+Aerospace,10,13,2021
+Rail Transit,10,0,2021
+Information Technology,11,2,2021
+Agricultural Machinery,11,0,2021
+New Materials,11,6,2021
+New Energy Vehicles,11,4,2021
+Robotics,11,5,2021
+Ocean Engineering,11,0,2021
+Biopharmaceuticals,11,0,2021
+Electric Power,11,16,2021
+Aerospace,11,14,2021
+Rail Transit,11,1,2021
+Information Technology,12,6,2021
+Agricultural Machinery,12,0,2021
+New Materials,12,4,2021
+New Energy Vehicles,12,3,2021
+Robotics,12,5,2021
+Ocean Engineering,12,0,2021
+Biopharmaceuticals,12,1,2021
+Electric Power,12,6,2021
+Aerospace,12,20,2021
+Rail Transit,12,1,2021
+Information Technology,1,14,2022
+Agricultural Machinery,1,0,2022
+New Materials,1,4,2022
+New Energy Vehicles,1,3,2022
+Robotics,1,12,2022
+Biopharmaceuticals,1,4,2022
+Electric Power,1,18,2022
+Aerospace,1,14,2022
+Rail Transit,1,1,2022
+Information Technology,2,3,2022
+Agricultural Machinery,2,0,2022
+New Materials,2,5,2022
+New Energy Vehicles,2,3,2022
+Robotics,2,4,2022
+Biopharmaceuticals,2,4,2022
+Electric Power,2,4,2022
+Aerospace,2,12,2022
+Rail Transit,2,2,2022
+Information Technology,3,2,2022
+Agricultural Machinery,3,1,2022
+New Materials,3,5,2022
+New Energy Vehicles,3,3,2022
+Robotics,3,2,2022
+Biopharmaceuticals,3,1,2022
+Electric Power,3,11,2022
+Aerospace,3,14,2022
+Rail Transit,3,0,2022
+Information Technology,4,5,2022
+Agricultural Machinery,4,0,2022
+New Materials,4,4,2022
+New Energy Vehicles,4,6,2022
+Robotics,4,2,2022
+Biopharmaceuticals,4,3,2022
+Electric Power,4,12,2022
+Aerospace,4,14,2022
+Rail Transit,4,1,2022
+Information Technology,5,4,2022
+Agricultural Machinery,5,0,2022
+New Materials,5,2,2022
+New Energy Vehicles,5,6,2022
+Robotics,5,1,2022
+Biopharmaceuticals,5,6,2022
+Electric Power,5,12,2022
+Aerospace,5,16,2022
+Rail Transit,5,6,2022
+Information Technology,6,3,2022
+Agricultural Machinery,6,0,2022
+New Materials,6,7,2022
+New Energy Vehicles,6,6,2022
+Robotics,6,3,2022
+Biopharmaceuticals,6,10,2022
+Electric Power,6,10,2022
+Aerospace,6,14,2022
+Rail Transit,6,3,2022
+Information Technology,7,5,2022
+Agricultural Machinery,7,2,2022
+New Materials,7,9,2022
+New Energy Vehicles,7,8,2022
+Robotics,7,3,2022
+Biopharmaceuticals,7,5,2022
+Electric Power,7,15,2022
+Aerospace,7,18,2022
+Rail Transit,7,2,2022
+Information Technology,8,4,2022
+Agricultural Machinery,8,2,2022
+New Materials,8,7,2022
+New Energy Vehicles,8,8,2022
+Robotics,8,5,2022
+Biopharmaceuticals,8,6,2022
+Electric Power,8,16,2022
+Aerospace,8,9,2022
+Rail Transit,8,2,2022
+Information Technology,9,1,2022
+Agricultural Machinery,9,1,2022
+New Materials,9,5,2022
+New Energy Vehicles,9,4,2022
+Robotics,9,2,2022
+Biopharmaceuticals,9,0,2022
+Electric Power,9,16,2022
+Aerospace,9,14,2022
+Rail Transit,9,2,2022
+Information Technology,10,2,2022
+Agricultural Machinery,10,3,2022
+New Materials,10,3,2022
+New Energy Vehicles,10,1,2022
+Robotics,10,1,2022
+Biopharmaceuticals,10,0,2022
+Electric Power,10,5,2022
+Aerospace,10,15,2022
+Rail Transit,10,1,2022
+Information Technology,11,4,2022
+Agricultural Machinery,11,0,2022
+New Materials,11,2,2022
+New Energy Vehicles,11,7,2022
+Robotics,11,2,2022
+Biopharmaceuticals,11,1,2022
+Electric Power,11,8,2022
+Aerospace,11,30,2022
+Rail Transit,11,2,2022
+Information Technology,12,4,2022
+Agricultural Machinery,12,0,2022
+New Materials,12,2,2022
+New Energy Vehicles,12,6,2022
+Robotics,12,2,2022
+Biopharmaceuticals,12,0,2022
+Electric Power,12,9,2022
+Aerospace,12,14,2022
+Rail Transit,12,1,2022
+Information Technology,1,6,2023
+Agricultural Machinery,1,0,2023
+New Materials,1,7,2023
+New Energy Vehicles,1,6,2023
+Robotics,1,4,2023
+Ocean Engineering,1,0,2023
+Biopharmaceuticals,1,7,2023
+Electric Power,1,10,2023
+Aerospace,1,14,2023
+Rail Transit,1,5,2023
+Information Technology,2,5,2023
+Agricultural Machinery,2,3,2023
+New Materials,2,10,2023
+New Energy Vehicles,2,13,2023
+Robotics,2,4,2023
+Ocean Engineering,2,0,2023
+Biopharmaceuticals,2,7,2023
+Electric Power,2,8,2023
+Aerospace,2,12,2023
+Rail Transit,2,1,2023
+Information Technology,3,6,2023
+Agricultural Machinery,3,2,2023
+New Materials,3,2,2023
+New Energy Vehicles,3,6,2023
+Robotics,3,2,2023
+Ocean Engineering,3,1,2023
+Biopharmaceuticals,3,0,2023
+Electric Power,3,10,2023
+Aerospace,3,12,2023
+Rail Transit,3,7,2023
+Information Technology,4,5,2023
+Agricultural Machinery,4,1,2023
+New Materials,4,4,2023
+New Energy Vehicles,4,16,2023
+Robotics,4,5,2023
+Ocean Engineering,4,0,2023
+Biopharmaceuticals,4,3,2023
+Electric Power,4,8,2023
+Aerospace,4,17,2023
+Rail Transit,4,1,2023
+Information Technology,5,2,2023
+Agricultural Machinery,5,1,2023
+New Materials,5,4,2023
+New Energy Vehicles,5,11,2023
+Robotics,5,3,2023
+Ocean Engineering,5,0,2023
+Biopharmaceuticals,5,4,2023
+Electric Power,5,9,2023
+Aerospace,5,20,2023
+Rail Transit,5,0,2023
+Information Technology,6,5,2023
+Agricultural Machinery,6,1,2023
+New Materials,6,1,2023
+New Energy Vehicles,6,8,2023
+Robotics,6,3,2023
+Ocean Engineering,6,0,2023
+Biopharmaceuticals,6,1,2023
+Electric Power,6,12,2023
+Aerospace,6,13,2023
+Rail Transit,6,1,2023
+Information Technology,7,6,2023
+Agricultural Machinery,7,1,2023
+New Materials,7,10,2023
+New Energy Vehicles,7,14,2023
+Robotics,7,0,2023
+Ocean Engineering,7,0,2023
+Biopharmaceuticals,7,3,2023
+Electric Power,7,22,2023
+Aerospace,7,17,2023
+Rail Transit,7,2,2023
+Information Technology,8,5,2023
+Agricultural Machinery,8,1,2023
+New Materials,8,7,2023
+New Energy Vehicles,8,15,2023
+Robotics,8,6,2023
+Ocean Engineering,8,0,2023
+Biopharmaceuticals,8,3,2023
+Electric Power,8,30,2023
+Aerospace,8,4,2023
+Rail Transit,8,0,2023
+Information Technology,9,6,2023
+Agricultural Machinery,9,2,2023
+New Materials,9,5,2023
+New Energy Vehicles,9,9,2023
+Robotics,9,3,2023
+Ocean Engineering,9,0,2023
+Biopharmaceuticals,9,4,2023
+Electric Power,9,8,2023
+Aerospace,9,11,2023
+Rail Transit,9,2,2023
+Information Technology,10,2,2023
+Agricultural Machinery,10,1,2023
+New Materials,10,4,2023
+New Energy Vehicles,10,8,2023
+Robotics,10,1,2023
+Ocean Engineering,10,0,2023
+Biopharmaceuticals,10,3,2023
+Electric Power,10,9,2023
+Aerospace,10,10,2023
+Rail Transit,10,1,2023
+Information Technology,11,6,2023
+Agricultural Machinery,11,1,2023
+New Materials,11,6,2023
+New Energy Vehicles,11,12,2023
+Robotics,11,4,2023
+Ocean Engineering,11,0,2023
+Biopharmaceuticals,11,3,2023
+Electric Power,11,17,2023
+Aerospace,11,9,2023
+Rail Transit,11,0,2023
+Information Technology,12,0,2023
+Agricultural Machinery,12,0,2023
+New Materials,12,6,2023
+New Energy Vehicles,12,8,2023
+Robotics,12,4,2023
+Ocean Engineering,12,0,2023
+Biopharmaceuticals,12,4,2023
+Electric Power,12,9,2023
+Aerospace,12,9,2023
+Rail Transit,12,2,2023
