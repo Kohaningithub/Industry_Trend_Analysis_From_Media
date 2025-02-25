@@ -23,7 +23,8 @@ This dashboard provides a comprehensive analysis of China's industrial policy fo
 
 - **Svelte**: Frontend framework
 - **D3.js**: Data visualization library
-- **CSV Data Processing**: For handling regional and temporal data
+- **NLP Processing**: Natural language processing for sector and region identification
+- **Web Scraping**: Data collection from Xinwenlianbo broadcasts
 - **Responsive Design**: For optimal viewing across devices
 
 ## 🏗️ Project Structure
