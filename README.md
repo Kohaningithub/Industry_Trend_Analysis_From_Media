@@ -2,15 +2,15 @@
 
 An interactive data visualization dashboard that analyzes China's industrial policy focus through state media coverage patterns, particularly through Xinwenlianbo (新闻联播) coverage analysis.
 
-## 🚀 Live Demo
+##  Live Demo
 
 Check out the live demo: [https://thunderous-queijadas-cee38f.netlify.app](https://thunderous-queijadas-cee38f.netlify.app)
 
-## 📝 Description
+##  Description
 
 This dashboard provides a comprehensive analysis of China's industrial policy focus through the lens of state media coverage. By tracking mentions of different technological sectors in Xinwenlianbo (China's primary state television news program), the application reveals subtle shifts in industrial policy priorities and implementation.
 
-## ✨ Features
+##  Features
 
 - **Interactive Time Series Analysis**: Track coverage shifts across technological sectors over time
 - **Heat Map Visualization**: View intensity patterns across all sectors simultaneously
@@ -19,7 +19,7 @@ This dashboard provides a comprehensive analysis of China's industrial policy fo
 - **Policy Context Integration**: Understand key transitions and policy evolution
 - **Detailed Exploration Tools**: Compare sectors, regions, and time periods
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Svelte**: Frontend framework
 - **D3.js**: Data visualization library
@@ -27,7 +27,7 @@ This dashboard provides a comprehensive analysis of China's industrial policy fo
 - **Web Scraping**: Data collection from Xinwenlianbo broadcasts
 - **Responsive Design**: For optimal viewing across devices
 
-## 🏗️ Project Structure
+##  Project Structure
 
 The dashboard is organized into three main sections:
 
@@ -47,7 +47,7 @@ The dashboard is organized into three main sections:
    - Key Insights
    - Research Implications
 
-## 🔍 Key Analysis Points
+##  Key Analysis Points
 
 - Coverage patterns before and after March 2019
 - Regional specialization in technological sectors
@@ -55,7 +55,7 @@ The dashboard is organized into three main sections:
 - Post-2021 technological development trends
 - Impact of policy communication changes
 
-## 📊 Data Sources
+##  Data Sources
 
 The application uses processed data from:
 - Xinwenlianbo coverage data
